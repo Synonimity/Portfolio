@@ -27,11 +27,4 @@ DebugScript is composed of 5 main files:
 - **Safe file handling**: ignores sensitive files such as `.env` and credentials.  
 - **Cross-platform path management** with Python’s `pathlib`.  
 
----
 
-## Quick Start
-
-1. **Clone the repo**
-```bash
-git clone https://github.com/Synonimity/Portfolio.git
-cd Portfolio/DebugScript
